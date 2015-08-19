@@ -1,3 +1,17 @@
+echo "# cartoriounico" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/gustavopxavier/projeto.git
+
+git push -u origin master
+
+--------------------Criar hg-pages------------------------
+
 cd /pasta/do/projeto
 
 git symbolic-ref HEAD refs/heads/gh-pages
