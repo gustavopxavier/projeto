@@ -1,3 +1,9 @@
+----------------Logar no github pelo terminal-----------------
+
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADDRESS"
+
+---------------Comandos para subir arquivos---------------
 echo "# cartoriounico" >> README.md
 
 git init
